@@ -1,0 +1,26 @@
+{
+  "name": "waterbase-js",
+  "version": "0.0.0",
+  "authors": [
+    "agchou <aarongchou@gmail.com>"
+  ],
+  "description": "Javascript client library for Waterbase",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chai": "~1.9.1",
+    "mocha": "~1.18.2",
+    "jquery": "~2.1.0",
+    "sockjs-client": "~0.3.4"
+  }
+}
